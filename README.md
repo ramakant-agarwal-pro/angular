@@ -1,7 +1,7 @@
 # angular
 angular from https://www.youtube.com/watch?v=oUmVFHlwZsI&amp;list=PL2sQdFoGnLIhLU0Xdsh_ZY1KzGHf4uPMg
 npm install -g @angular/cli@18
-
+ng new self-exp
 1003  npm start
  1004  ng g c components/greeting
  1005  ng g c components/greeting --dry-run
